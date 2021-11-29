@@ -1,0 +1,33 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+
+.centertable1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+}
+.centersubmitbars {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+.anabox{
+    width: 350px;
+    height: auto;
+}
+.ikincilbox{
+    width: auto;
+    height: auto;
+}
+.centertable2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+}
