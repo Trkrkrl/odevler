@@ -1,5 +1,29 @@
 /* class .text-red{}
 id #id-bilgisi{} */
+/*  .color-blue .fw-bold{
+    color:blue;
+    font-weight: bold;
+} burada iç içe iki etiket olmalı */
+/* ul>li:first-child{
+color:green;
+}
+ul>li:last-child{
+color:palevioletred 
+} */
+/*
+
+.color-blue .fw-bold{
+    color:blue;
+    font-weight: bold;
+}
+li:nth-child(odd){
+color: rgb(245, 10, 10);
+}
+li:nth-child(even){
+    color: rgb(26, 26, 228);
+    }
+
+
 
 h1,h2,h3,h4,h5,h5 {
     color: #e40303;
@@ -26,4 +50,58 @@ font-size: 14px;
 }
 .fs-30 {
     font-size: 3px;
+}*/
+body{
+    margin: 0;
+    padding: 0;
 }
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 5%;
+    background-color: purple;
+    margin-right: 3%;
+    border-radius: 10px;
+}
+.box{
+    
+    width: 300px;
+    height: 300px;
+    padding-: 10px;
+    margin-right: 10px; 
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+.container{
+    width: 1000px; 
+    margin: 50px auto;
+}
+.left-bar{
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+.content{
+    width: 800px;
+    float: left;
+
+} 
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+
+
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color: green;
+}
+.clear{
+    clear: both;
+}
+
